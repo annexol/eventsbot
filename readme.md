@@ -22,8 +22,8 @@ pip install -r requirements.txt
 bot = telebot.TeleBot('your_token')
 </pre>
 
-<pre>
-after running wait 1-2 minutes for database update
-</pre>
+
+...after running wait 1-2 minutes for database update
+
 
 
