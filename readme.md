@@ -7,7 +7,7 @@ With this bot you can find events in Minsk, also find people to attend these eve
 
 <pre>
 mkdir relaxbot && relaxbot && \
-git clone https://github.com/annexol/events_bot.git
+git clone https://github.com/annexol/eventsbot.git
 </pre>
 
 After opening the project(relaxbot) you need to run the command in the terminal
