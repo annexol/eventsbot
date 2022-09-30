@@ -1,3 +1,4 @@
+### [run bot](https://t.me/minskeventbot)
 # Telegram link: @minskeventbot
 
 With this bot you can find events in Minsk, also find people to attend these events together
